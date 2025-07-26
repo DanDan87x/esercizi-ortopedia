@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Contrazione Isometrica Glutei",
+    "category": "protesi-anca",
+    "phase": "precoce",
+    "keywords": ["glutei", "isometrico", "anca", "contrazione", "rinforzo"],
+    "description": "Rinforzo isometrico dei muscoli glutei per stabilizzazione dell'anca",
+    "startPosition": "Paziente supino a letto con gambe estese, braccia lungo i fianchi",
+    "execution": "Contrarre i muscoli dei glutei mantenendo la contrazione per 5-10 secondi, quindi rilassare lentamente. Ripetere 10-15 volte per 3 serie.",
+    "avoidances": [
+      "Non trattenere il respiro durante la contrazione",
+      "Non sollevare il bacino da terra",
+      "Non contrarre troppo intensamente causando dolore"
+    ],
+    "tips": [
+      "Iniziare con contrazioni brevi e aumentare gradualmente",
+      "Mantenere respirazione normale",
+      "Sentire la contrazione senza dolore",
+      "Eseguire più volte al giorno"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Flessione Anca Attiva Assistita",
+    "category": "protesi-anca",
+    "phase": "precoce",
+    "keywords": ["flessione", "anca", "attiva", "assistita", "movimento"],
+    "description": "Movimento di flessione dell'anca con assistenza per recuperare gradualmente il range di movimento",
+    "startPosition": "Paziente supino, gamba non operata piegata, piede appoggiato sul letto",
+    "execution": "Flettere lentamente l'anca operata portando il ginocchio verso il petto, aiutandosi con le mani se necessario. Mantenere 2-3 secondi e tornare lentamente alla posizione iniziale.",
+    "avoidances": [
+      "Non superare i 90° di flessione nelle prime settimane",
+      "Non forzare il movimento oltre il dolore",
+      "Non eseguire movimenti bruschi"
+    ],
+    "tips": [
+      "Utilizzare un asciugamano sotto la coscia per assistere il movimento",
+      "Progredire gradualmente nell'ampiezza",
+      "Fermarsi al primo segno di disagio",
+      "Mantenere il bacino stabile"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Abduzione Anca Supina",
+    "category": "protesi-anca",
+    "phase": "intermedia",
+    "keywords": ["abduzione", "anca", "laterale", "divaricamento"],
+    "description": "Movimento di abduzione dell'anca per rinforzare i muscoli abduttori",
+    "startPosition": "Paziente supino con gambe estese",
+    "execution": "Allargare lentamente la gamba operata verso l'esterno mantenendo il piede rivolto verso l'alto. Tornare lentamente alla posizione iniziale.",
+    "avoidances": [
+      "Non ruotare internamente l'anca",
+      "Non superare l'abduzione a 45°",
+      "Non alzare il bacino dal letto"
+    ],
+    "tips": [
+      "Mantenere la rotula rivolta verso il soffitto",
+      "Movimento lento e controllato",
+      "Sentire il lavoro sui muscoli laterali dell'anca"
+    ]
+  }
+  // ... incolla qui gli altri esercizi secondo lo stesso schema ...
+]
